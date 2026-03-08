@@ -1,0 +1,23 @@
+# Git
+.git
+.gitignore
+
+# IDE / OS
+.vscode
+.idea
+*.swp
+*.swo
+*~
+Thumbs.db
+.DS_Store
+
+# Docs
+README.md
+LICENSE
+
+# CI
+.github
+
+# Binaries
+*.exe
+server
