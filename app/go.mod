@@ -1,3 +1,3 @@
-module github.com/mihaj/decenter/app
+module github.com/Vujsa02/decenter/app
 
 go 1.23
